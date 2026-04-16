@@ -1,0 +1,182 @@
+C:\Users\trive\source\repos\TestProject\TestProject\bin\TestProject.dll.config
+C:\Users\trive\source\repos\TestProject\TestProject\bin\TestProject.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\TestProject.pdb
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\csc.exe
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\csc.exe.config
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\csc.rsp
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\csi.exe
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\csi.exe.config
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\csi.rsp
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.AppContext.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Console.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Net.Http.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\vbc.exe
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\vbc.exe.config
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\vbc.rsp
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\trive\source\repos\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Antlr3.Runtime.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\dotless.AspNet.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\dotless.Core.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\EntityFramework.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Newtonsoft.Json.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Helpers.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Mvc.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Optimization.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Optimization.Less.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Razor.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.WebPages.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\WebGrease.dll
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Antlr3.Runtime.pdb
+C:\Users\trive\source\repos\TestProject\TestProject\bin\EntityFramework.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Newtonsoft.Json.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Helpers.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Mvc.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Optimization.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Optimization.Less.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.Razor.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.WebPages.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\trive\source\repos\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trive\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\trive\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\trive\source\repos\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\trive\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\trive\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\TestProject.dll.config
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\TestProject.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\TestProject.pdb
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\csc.exe
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\csc.exe.config
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\csc.rsp
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\csi.exe
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\csi.exe.config
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\csi.rsp
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.AppContext.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Console.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Net.Http.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\vbc.exe
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\vbc.exe.config
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\vbc.rsp
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Antlr3.Runtime.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\dotless.AspNet.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\dotless.Core.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\EntityFramework.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Newtonsoft.Json.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Helpers.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Mvc.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Optimization.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Optimization.Less.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Razor.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.WebPages.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\WebGrease.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Antlr3.Runtime.pdb
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\EntityFramework.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Newtonsoft.Json.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Helpers.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Mvc.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Optimization.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Optimization.Less.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.Razor.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.WebPages.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\obj\Debug\TestProj.121896E9.Up2Date
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\trive\Downloads\TestProject (1)\TestProject\TestProject\obj\Debug\TestProject.pdb

@@ -1,0 +1,54 @@
+﻿@model TestProject.Models.OrderModel
+@{
+    ViewBag.Title = "CreateOrder";
+}
+
+<style>
+    .pagestyle{
+        background-color:bisque;
+        padding:10px;
+        font-family:'Lucida Bright';
+    }
+
+</style>
+
+<div class="pagestyle">
+
+
+    @using (Html.BeginForm("CreateOrder", "Restaurant", FormMethod.Post))
+    {
+        <h2 style="text-align:center">Order Form</h2>
+
+        <h3>Customer Information:</h3>
+        <div class="col-4">
+            @Html.LabelFor(model => model.CustomerName)
+            @Html.TextBoxFor(model => model.CustomerName, new { @class="form-control" })
+            @Html.ValidationMessageFor(model => model.CustomerName,"",new { @class="text-danger"})
+        </div><br/>
+
+        <div class="col-4">
+            @Html.LabelFor(model => model.CustomerPhone)
+            @Html.TextBoxFor(model => model.CustomerPhone, new { @class = "form-control", @type = "number" })
+            @Html.ValidationMessageFor(model => model.CustomerPhone, "", new { @class = "text-danger" })
+        </div><br/>
+
+        <h3>List of Food Items :</h3>
+        for (int i = 0; i < Model.FoodItemGroups.Count; i++)
+        {
+            <h5>@Model.FoodItemGroups[i].ItemType</h5>
+            <ul>
+                @for (int j = 0; j < Model.FoodItemGroups[i].Items.Count; j++)
+                {
+                    var foodItem = Model.FoodItemGroups[i].Items[j];
+
+                    <li>
+                        <input type="checkbox" name="SelectedFoodItemIds" value="@foodItem.Id" id="foodItem_@foodItem.Id" />
+                        <label for="foodItem_@foodItem.Id">@foodItem.ItemName </label>
+                    </li>
+                }
+            </ul>
+        }
+
+        <input type="submit" value="Confirm Order" class="btn btn-success"/>
+    }
+</div>

@@ -1,0 +1,54 @@
+﻿@model TestProject.Models.UserModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<style>
+    .formstyle {
+        background-color:lightgray;
+        padding: 10px;
+        margin-left: 256px;
+        width: 353px;
+        border-radius: 27px;
+        font-size: medium;
+    }
+</style>
+
+<div class="formstyle">
+    <h2 style="text-align:center">Login</h2>
+    @using (Html.BeginForm("Login", "User", FormMethod.Post))
+    {
+        <div class="row">
+            <div class="col-12">
+                @Html.LabelFor(s => s.UserName)
+                @Html.TextBoxFor(s => s.UserName, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(s => s.UserName, "", new { @class = "text-danger" })
+            </div>
+        </div><br/>
+        <div class="row">
+            <div class="col-12">
+                @Html.LabelFor(s => s.GeneratedPassword)
+                @Html.TextBoxFor(s => s.GeneratedPassword, Model.GeneratedPassword, new { @class = "form-control" })
+
+            </div>
+        </div><br/>
+        <div class="row">
+            <div class="col-12">
+                @Html.LabelFor(s => s.Password)
+                @Html.PasswordFor(s => s.Password, new { @class = "form-control", @type="password"})
+                @Html.ValidationMessageFor(s => s.Password, "", new { @class = "text-danger" })
+            </div>
+        </div><br/>
+        <div class="row">
+            <div class="col-12 text-center">
+                <input type="submit" name="Login" class="btn btn-primary" />
+            </div>
+        </div>
+    }
+</div>
+
+
+
+
+
+

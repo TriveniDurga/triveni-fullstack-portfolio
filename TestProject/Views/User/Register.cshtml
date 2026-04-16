@@ -1,0 +1,45 @@
+﻿@model TestProject.Models.UserModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<style>
+    .formstyle{
+        background-color:lavender;
+        padding:10px;
+        margin-left:256px;
+        width:327px;
+        border-radius:27px;
+        font-size:medium;
+    }
+</style>
+
+
+<div class="formstyle">
+    <h2 style="text-align:center">Register</h2><br/>
+    @using (Html.BeginForm("Register", "User", FormMethod.Post))
+    {
+        <div class="row">
+            <div class="col-8">
+                @Html.LabelFor(s => s.UserName)
+                @Html.TextBoxFor(s => s.UserName, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(u => u.UserName, "", new { @class = "text-danger" })
+            </div>
+        </div><br/>
+        <div class="row">
+            <div class="col-12">
+                @if (ViewBag.ErrorMessage != null)
+                {
+                    <p class="text-danger">@ViewBag.ErrorMessage</p>
+                }
+            </div>
+        </div><br/>
+        <div class="row">
+            <div class="col-12 text-center">
+                <input type="Submit" name="Register" class="btn btn-primary" />
+            </div>
+        </div>
+    }
+</div>
+
+

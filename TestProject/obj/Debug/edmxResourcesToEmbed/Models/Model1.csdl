@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AssignmentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="UserCredential">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="AssignmentEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="UserCredentials" EntityType="Self.UserCredential" />
+    <EntitySet Name="FoodItems" EntityType="AssignmentModel.FoodItem" />
+    <EntitySet Name="Customers" EntityType="AssignmentModel.Customer" />
+    <EntitySet Name="Orders" EntityType="AssignmentModel.Order" />
+    <AssociationSet Name="Orders_Customers_ID_FK" Association="AssignmentModel.Orders_Customers_ID_FK">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="Orders_Item_ID_FK" Association="AssignmentModel.Orders_Item_ID_FK">
+      <End Role="FoodItem" EntitySet="FoodItems" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="FoodItem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="ItemName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ItemType" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Orders" Relationship="AssignmentModel.Orders_Item_ID_FK" FromRole="FoodItem" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Orders" Relationship="AssignmentModel.Orders_Customers_ID_FK" FromRole="Customer" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Customer_ID" Type="Int64" />
+    <Property Name="Item_ID" Type="Int32" />
+    <NavigationProperty Name="Customer" Relationship="AssignmentModel.Orders_Customers_ID_FK" FromRole="Order" ToRole="Customer" />
+    <NavigationProperty Name="FoodItem" Relationship="AssignmentModel.Orders_Item_ID_FK" FromRole="Order" ToRole="FoodItem" />
+  </EntityType>
+  <Association Name="Orders_Customers_ID_FK">
+    <End Type="AssignmentModel.Customer" Role="Customer" Multiplicity="0..1" />
+    <End Type="AssignmentModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="Customer_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Orders_Item_ID_FK">
+    <End Type="AssignmentModel.FoodItem" Role="FoodItem" Multiplicity="0..1" />
+    <End Type="AssignmentModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FoodItem">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="Item_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
